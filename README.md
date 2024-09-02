@@ -38,10 +38,8 @@ The ESP32 C3 Supermini is a compact and low-power development board designed for
 ![image](https://github.com/user-attachments/assets/b762bc15-6920-4979-82c1-00eb8b9c88f4)
 * Select the arrow uplaod icon
 
-![image](https://github.com/user-attachments/assets/1c1d1c48-701d-4a11-aaab-329294dfc946)
-6. Upload your code with the upload button
-
 ![image](https://github.com/user-attachments/assets/bef2c4bd-26aa-4941-8062-41216c850690)
+6. Upload your code with the upload button
 
 The built-in LED on your ESP32 C3 Supermini should start flashing
 
